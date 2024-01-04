@@ -29,14 +29,14 @@ h1{
 
 #pictureheader{
     margin-top: 0px;
-    width: 1864px; 
+    width: 100%; 
     height: 300px;
     background-size: cover; 
     background-image:url(Billeder/Deercollage.png)
 }
 
 #headerbox{
-    width: 1864px;
+    width: 100%;
     height: 80px;
     background: #8D811B;
     margin-left: 0px;
@@ -44,7 +44,7 @@ h1{
 }
 
 #navbox{
-    width: 1900px;
+    width: 100%;
     height: 100px; 
     background-color: #786E17;
 }
@@ -68,14 +68,14 @@ h1{
     background-color:#615911;
     overflow: hidden;
     margin: auto;
-    width: 1864px;
+    width: 100%;
 }
 
 .nav a{
     float: left;
     color: #000000;
     text-align: center;
-    padding: 14px 153px;
+    padding: 14px 130px;
     font-size: 150%;
     text-decoration: none;
     font-family:Arial;
