@@ -98,8 +98,15 @@ h1{
     width: 1470px;
     height: 130px;
     background-color: #615911;
-    margin: auto;
+    margin-top: 200px;
     border-radius: 0px 0px 25px 25px;
+}
+
+#list{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight:bolder;
+    margin: 8%;
 }
 
 h2{
